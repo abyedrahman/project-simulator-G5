@@ -8,3 +8,7 @@ This feature adds something important.
 This feature simulates dashboard interface.
 **Status: Implemented**
 
+## T-5: Add Customer
+custmer added
+**Status: Implemented**
+
